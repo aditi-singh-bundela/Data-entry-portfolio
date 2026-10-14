@@ -42,3 +42,22 @@ Developing SQL skills by practising basic queries with sample data.
 Email: bundeladitisingh0@gmail.com
 
 *This portfolio showcases my learning journey and will be updated as I complete projects.*
+## My Excel Project: Customer Data Entry and Cleaning
+
+### Project Overview
+I created a customer dataset in Microsoft Excel to practise data entry, formatting, and data cleaning.
+
+### Tools Used
+- Microsoft Excel
+
+### Skills Practised
+- Organizing customer data into columns
+- Formatting the worksheet
+- Checking data for errors
+- Maintaining structured records
+
+### Project Workbook
+[View My Excel Workbook](customer-data-cleaning.xlsx)
+
+### Learning Outcome
+I gained practical experience in organizing and preparing customer data using Excel.
